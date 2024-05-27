@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "382889334328",
+    "project_id": "shoppinggpt-10ac6",
+    "storage_bucket": "shoppinggpt-10ac6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382889334328:android:1315d9b8f86356fbcab8cd",
+        "android_client_info": {
+          "package_name": "com.example.shopping_gpt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR57hVOfO2Vuwe0BfT13fs29-mvmB5wBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
